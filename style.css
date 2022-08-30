@@ -1,9 +1,10 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
 }
 .red {
-  color:red;
+  color: red;
 }
-.yellow {  
-color: yellow
+.yellow {
+  color: yellow;
 }
