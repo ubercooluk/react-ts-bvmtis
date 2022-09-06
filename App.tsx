@@ -11,7 +11,7 @@ export default function App() {
     <div>
       <p className="yellow">Im yellow</p>
       <p className="red">Im red</p>
-      <p className="red green">I must be green</p>
+      <p className="red yellow">I must be green</p>
     </div>
   );
 }
