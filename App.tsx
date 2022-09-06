@@ -9,9 +9,9 @@ export default function App() {
 
   return (
     <div>
-      <p className="yellow">Im yellow</p>
+      <p className="blue">Im yellow</p>
       <p className="red">Im red</p>
-      <p className="red yellow">I must be green</p>
+      <p className="red blue">I must be green</p>
     </div>
   );
 }
